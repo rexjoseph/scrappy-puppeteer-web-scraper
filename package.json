@@ -1,0 +1,21 @@
+{
+  "name": "craiglist-for-sale-scrapper-with-puppeteer",
+  "version": "1.0.0",
+  "description": "A Craiglist For Sale Category scrapper with the Puppeteer Library in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "scraper",
+    "webscrapping"
+  ],
+  "author": "Rex Odemheina",
+  "license": "MIT",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^19.7.3",
+    "xlsx": "^0.18.5"
+  }
+}
